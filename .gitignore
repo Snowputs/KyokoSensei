@@ -5,6 +5,18 @@ discord-bot/build
 discord-bot/DiscordToken.txt
 discord-bot/.vs
 
+#object files
+*.o
+
+#cmake files
+*/CMakeFiles/*
+
+#ignore build files
+build/*
+
+#keep the folder
+!build/.gitkeep
+
 ## node js files
 
 # Logs
