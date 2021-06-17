@@ -1,0 +1,3 @@
+/home/rubensv/Dokumenter/Programs/KyokoSensei/build/websocketpp-download/CMakeFiles/rebuild_cache.dir
+/home/rubensv/Dokumenter/Programs/KyokoSensei/build/websocketpp-download/CMakeFiles/edit_cache.dir
+/home/rubensv/Dokumenter/Programs/KyokoSensei/build/websocketpp-download/CMakeFiles/websocketpp-download.dir
