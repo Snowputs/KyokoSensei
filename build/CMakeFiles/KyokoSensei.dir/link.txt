@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/KyokoSensei.dir/source.cpp.o -o KyokoSensei  deps/sleepy-discord/sleepy_discord/libsleepy-discord.a lib/libcpr.a /usr/lib/libcurl.so -lssl -lcrypto -pthread 
